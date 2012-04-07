@@ -31,5 +31,13 @@ into a controller.
 
 <a href="/examples/contacts/">Visit Contacts</a>
 <a href="/examples/contacts/">
-<img src="/images/screenshots/contacts.png" class="screenshot">
+  <img src="/images/screenshots/contacts.png" class="screenshot">
 </a>
+
+## In the Wild
+
+A few projects and demos have put ember to use already:
+
+* [Winners of Demo Apps Contest](http://blog.sproutcore.com/announcing-the-winners-of-the-demo-apps-contest/) - A number of demos, created with the framework before the name change.
+* [Yapp](https://www.yapp.us/) and [Zendesk](http://www.zendesk.com/lotus/) have apps in limited release
+* [Square's analytics app](http://corner.squareup.com/2012/04/building-analytics.html) was written with Ember
