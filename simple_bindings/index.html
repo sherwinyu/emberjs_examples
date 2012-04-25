@@ -58,9 +58,7 @@
         <p>
           Last Name: {{view Ember.TextField valueBinding="App.personController.lastName"}}
         </p>
-        {{#view Ember.Checkbox valueBinding="App.personController.didRSVP"}}
-          <input type="checkbox">Click here to RSVP
-        {{/view}}
+        {{view Ember.Checkbox checkedBinding="App.personController.didRSVP"}}Click here to RSVP
       </div>
 
       <div class="viewer">
